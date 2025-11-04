@@ -13,3 +13,4 @@ for _ in range(5): #runs the code 5 times
     name[s_name]=give # makes the s_name and give be inserted into the dictionary
 for s_name, give in name.items():
     print(f"{s_name}:{give}")
+
